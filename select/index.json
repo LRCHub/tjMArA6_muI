@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "包帯",
+  "base_artist": "Tele",
+  "createdAt": "2025-12-26T16:11:38.950484Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "包帯",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_包帯_Tele.txt"
+    }
+  ]
+}
